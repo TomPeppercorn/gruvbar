@@ -3,7 +3,7 @@
 ICON_HIGH=$(printf '\uf028')
 ICON_MED=$(printf '\uf027')
 ICON_LOW=$(printf '\uf026')
-ICON_MUTE=$(printf '\uf6a9')
+ICON_MUTE=$(printf '\ueee8')
 
 if [ "$SENDER" = "volume_change" ]; then
   VOLUME=$INFO
